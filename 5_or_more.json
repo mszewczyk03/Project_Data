@@ -1,5 +1,4 @@
-[
-  {
+{
     "nodes": [
       { "name": "Host 537729916", "id": 0 },
       { "name": "Listing 1.00E+18", "id": 1 },
@@ -8161,9 +8160,7 @@
       { "name": "Listing 32450788", "id": 8157 },
       { "name": "Host 339848823", "id": 8158 },
       { "name": "Listing 9.17E+17", "id": 8159 }
-    ]
-  },
-  {
+    ],
     "links": [
       { "source": 0, "target": 1 },
       { "source": 0, "target": 2 },
@@ -15645,4 +15642,4 @@
       { "source": 8158, "target": 8159 }
     ]
   }
-]
+
