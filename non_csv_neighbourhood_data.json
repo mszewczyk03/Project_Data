@@ -1,6 +1,11 @@
 
     {
         "nodes": [
+             {
+                "name": "New York",
+                "group": "City",
+                "id": 0.5
+            },
             {
                 "name": "Queens",
                 "group": "borough",
@@ -404,6 +409,23 @@
         ],
     
         "links": [
+             {
+                "source": 0.5,
+                "target": 0
+            },
+             {
+                "source": 0.5,
+                "target": 1
+            },
+             {
+                "source": 0.5,
+                "target": 2
+            },
+             {
+                "source": 0.5,
+                "target": 3
+            },
+            
             {
                 "source": 0,
                 "target": 4
