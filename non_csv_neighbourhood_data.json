@@ -1,0 +1,712 @@
+
+    {
+        "nodes": [
+            {
+                "name": "Queens",
+                "group": "borough",
+                "id": 0
+            },
+            {
+                "name": "Manhattan",
+                "group": "borough",
+                "id": 1
+            },
+            {
+                "name": "Brooklyn",
+                "group": "borough",
+                "id": 2
+            },
+            {
+                "name": "Bronx",
+                "group": "borough",
+                "id": 3
+            },
+            {
+                "name": "Host 200239515",
+                "group": "hosts",
+                "id": 4
+            },
+            {
+                "name": "Listing 48066352",
+                "group": "Listings",
+                "id": 5
+            },
+            {
+                "name": "Host 480637402",
+                "group": "hosts",
+                "id": 6
+            },
+            {
+                "name": "Listing 7.25278E+17",
+                "group": "Listings",
+                "id": 7
+            },
+            {
+                "name": "Host 197675041",
+                "group": "hosts",
+                "id": 8
+            },
+            {
+                "name": "Listing 26291721",
+                "group": "Listings",
+                "id": 9
+            },
+            {
+                "name": "Host 59521180",
+                "group": "hosts",
+                "id": 10
+            },
+            {
+                "name": "Listing 39751479",
+                "group": "Listings",
+                "id": 11
+            },
+            {
+                "name": "Host 8961407",
+                "group": "hosts",
+                "id": 12
+            },
+            {
+                "name": "Listing 24370001",
+                "group": "Listings",
+                "id": 13
+            },
+            {
+                "name": "Host 17139611",
+                "group": "hosts",
+                "id": 14
+            },
+            {
+                "name": "Listing 30912652",
+                "group": "Listings",
+                "id": 15
+            },
+            {
+                "name": "Host 268613328",
+                "group": "hosts",
+                "id": 16
+            },
+            {
+                "name": "Listing 38956986",
+                "group": "Listings",
+                "id": 17
+            },
+            {
+                "name": "Host 12484100",
+                "group": "hosts",
+                "id": 18
+            },
+            {
+                "name": "Listing 7.05059E+17",
+                "group": "Listings",
+                "id": 19
+            },
+            {
+                "name": "Host 225971717",
+                "group": "hosts",
+                "id": 20
+            },
+            {
+                "name": "Listing 30112494",
+                "group": "Listings",
+                "id": 21
+            },
+            {
+                "name": "Host 150482926",
+                "group": "hosts",
+                "id": 22
+            },
+            {
+                "name": "Listing 26229979",
+                "group": "Listings",
+                "id": 23
+            },
+            {
+                "name": "Host 16398154",
+                "group": "hosts",
+                "id": 24
+            },
+            {
+                "name": "Listing 29835159",
+                "group": "Listings",
+                "id": 25
+            },
+            {
+                "name": "Host 175271914",
+                "group": "hosts",
+                "id": 26
+            },
+            {
+                "name": "Listing 36064099",
+                "group": "Listings",
+                "id": 27
+            },
+            {
+                "name": "Host 390535864",
+                "group": "hosts",
+                "id": 28
+            },
+            {
+                "name": "Listing 49107351",
+                "group": "Listings",
+                "id": 29
+            },
+            {
+                "name": "Host 25915648",
+                "group": "hosts",
+                "id": 30
+            },
+            {
+                "name": "Listing 37490244",
+                "group": "Listings",
+                "id": 31
+            },
+            {
+                "name": "Host 501064484",
+                "group": "hosts",
+                "id": 32
+            },
+            {
+                "name": "Listing 8.26788E+17",
+                "group": "Listings",
+                "id": 33
+            },
+            {
+                "name": "Host 239142480",
+                "group": "hosts",
+                "id": 34
+            },
+            {
+                "name": "Listing 31963324",
+                "group": "Listings",
+                "id": 35
+            },
+            {
+                "name": "Host 11305944",
+                "group": "hosts",
+                "id": 36
+            },
+            {
+                "name": "Listing 27924639",
+                "group": "Listings",
+                "id": 37
+            },
+            {
+                "name": "Host 3399151",
+                "group": "hosts",
+                "id": 38
+            },
+            {
+                "name": "Listing 27023307",
+                "group": "Listings",
+                "id": 39
+            },
+            {
+                "name": "Host 297762",
+                "group": "hosts",
+                "id": 40
+            },
+            {
+                "name": "Listing 37487817",
+                "group": "Listings",
+                "id": 41
+            },
+            {
+                "name": "Host 235008186",
+                "group": "hosts",
+                "id": 42
+            },
+            {
+                "name": "Listing 31379967",
+                "group": "Listings",
+                "id": 43
+            },
+            {
+                "name": "Host 3223938",
+                "group": "hosts",
+                "id": 44
+            },
+            {
+                "name": "Listing 7.59211E+17",
+                "group": "Listings",
+                "id": 45
+            },
+            {
+                "name": "Host 5339839",
+                "group": "hosts",
+                "id": 46
+            },
+            {
+                "name": "Listing 32008192",
+                "group": "Listings",
+                "id": 47
+            },
+            {
+                "name": "Host 117675375",
+                "group": "hosts",
+                "id": 48
+            },
+            {
+                "name": "Listing 31513692",
+                "group": "Listings",
+                "id": 49
+            },
+            {
+                "name": "Host 176710208",
+                "group": "hosts",
+                "id": 50
+            },
+            {
+                "name": "Listing 8.02377E+17",
+                "group": "Listings",
+                "id": 51
+            },
+            {
+                "name": "Host 108079367",
+                "group": "hosts",
+                "id": 52
+            },
+            {
+                "name": "Listing 34867166",
+                "group": "Listings",
+                "id": 53
+            },
+            {
+                "name": "Host 24449433",
+                "group": "hosts",
+                "id": 54
+            },
+            {
+                "name": "Listing 29879085",
+                "group": "Listings",
+                "id": 55
+            },
+            {
+                "name": "Host 64008392",
+                "group": "hosts",
+                "id": 56
+            },
+            {
+                "name": "Listing 37496845",
+                "group": "Listings",
+                "id": 57
+            },
+            {
+                "name": "Host 59411033",
+                "group": "hosts",
+                "id": 58
+            },
+            {
+                "name": "Listing 32238040",
+                "group": "Listings",
+                "id": 59
+            },
+            {
+                "name": "Host 64150162",
+                "group": "hosts",
+                "id": 60
+            },
+            {
+                "name": "Listing 1.0343E+18",
+                "group": "Listings",
+                "id": 61
+            },
+            {
+                "name": "Host 501999514",
+                "group": "hosts",
+                "id": 62
+            },
+            {
+                "name": "Listing 1.02913E+18",
+                "group": "Listings",
+                "id": 63
+            },
+            {
+                "name": "Host 306996701",
+                "group": "hosts",
+                "id": 64
+            },
+            {
+                "name": "Listing 39921812",
+                "group": "Listings",
+                "id": 65
+            },
+            {
+                "name": "Host 214184351",
+                "group": "hosts",
+                "id": 66
+            },
+            {
+                "name": "Listing 28519821",
+                "group": "Listings",
+                "id": 67
+            },
+            {
+                "name": "Host 34745760",
+                "group": "hosts",
+                "id": 68
+            },
+            {
+                "name": "Listing 27278546",
+                "group": "Listings",
+                "id": 69
+            },
+            {
+                "name": "Host 9601461",
+                "group": "hosts",
+                "id": 70
+            },
+            {
+                "name": "Listing 8.07024E+17",
+                "group": "Listings",
+                "id": 71
+            },
+            {
+                "name": "Host 380332619",
+                "group": "hosts",
+                "id": 72
+            },
+            {
+                "name": "Listing 8.3547E+17",
+                "group": "Listings",
+                "id": 73
+            },
+            {
+                "name": "Host 44887757",
+                "group": "hosts",
+                "id": 74
+            },
+            {
+                "name": "Listing 7.6586E+17",
+                "group": "Listings",
+                "id": 75
+            },
+            {
+                "name": "Host 434417987",
+                "group": "hosts",
+                "id": 76
+            },
+            {
+                "name": "Listing 53645215",
+                "group": "Listings",
+                "id": 77
+            },
+            {
+                "name": "Host 240706448",
+                "group": "hosts",
+                "id": 78
+            },
+            {
+                "name": "Listing 1.00906E+18",
+                "group": "Listings",
+                "id": 79
+            }
+        ],
+    
+        "links": [
+            {
+                "source": 0,
+                "target": 4
+            },
+            {
+                "source": 4,
+                "target": 5
+            },
+            {
+                "source": 1,
+                "target": 6
+            },
+            {
+                "source": 6,
+                "target": 7
+            },
+            {
+                "source": 1,
+                "target": 8
+            },
+            {
+                "source": 8,
+                "target": 9
+            },
+            {
+                "source": 1,
+                "target": 10
+            },
+            {
+                "source": 10,
+                "target": 11
+            },
+            {
+                "source": 1,
+                "target": 12
+            },
+            {
+                "source": 12,
+                "target": 13
+            },
+            {
+                "source": 1,
+                "target": 14
+            },
+            {
+                "source": 14,
+                "target": 15
+            },
+            {
+                "source": 1,
+                "target": 16
+            },
+            {
+                "source": 16,
+                "target": 17
+            },
+            {
+                "source": 0,
+                "target": 18
+            },
+            {
+                "source": 18,
+                "target": 19
+            },
+            {
+                "source": 1,
+                "target": 20
+            },
+            {
+                "source": 20,
+                "target": 21
+            },
+            {
+                "source": 1,
+                "target": 22
+            },
+            {
+                "source": 22,
+                "target": 23
+            },
+            {
+                "source": 2,
+                "target": 24
+            },
+            {
+                "source": 24,
+                "target": 25
+            },
+            {
+                "source": 0,
+                "target": 26
+            },
+            {
+                "source": 26,
+                "target": 27
+            },
+            {
+                "source": 0,
+                "target": 28
+            },
+            {
+                "source": 28,
+                "target": 29
+            },
+            {
+                "source": 0,
+                "target": 30
+            },
+            {
+                "source": 30,
+                "target": 31
+            },
+            {
+                "source": 1,
+                "target": 32
+            },
+            {
+                "source": 32,
+                "target": 33
+            },
+            {
+                "source": 1,
+                "target": 34
+            },
+            {
+                "source": 34,
+                "target": 35
+            },
+            {
+                "source": 3,
+                "target": 36
+            },
+            {
+                "source": 36,
+                "target": 37
+            },
+            {
+                "source": 1,
+                "target": 38
+            },
+            {
+                "source": 38,
+                "target": 39
+            },
+            {
+                "source": 1,
+                "target": 40
+            },
+            {
+                "source": 40,
+                "target": 41
+            },
+            {
+                "source": 0,
+                "target": 42
+            },
+            {
+                "source": 42,
+                "target": 43
+            },
+            {
+                "source": 2,
+                "target": 44
+            },
+            {
+                "source": 44,
+                "target": 45
+            },
+            {
+                "source": 2,
+                "target": 46
+            },
+            {
+                "source": 46,
+                "target": 47
+            },
+            {
+                "source": 3,
+                "target": 48
+            },
+            {
+                "source": 48,
+                "target": 49
+            },
+            {
+                "source": 0,
+                "target": 50
+            },
+            {
+                "source": 50,
+                "target": 51
+            },
+            {
+                "source": 2,
+                "target": 52
+            },
+            {
+                "source": 52,
+                "target": 53
+            },
+            {
+                "source": 1,
+                "target": 54
+            },
+            {
+                "source": 54,
+                "target": 55
+            },
+            {
+                "source": 2,
+                "target": 56
+            },
+            {
+                "source": 56,
+                "target": 57
+            },
+            {
+                "source": 1,
+                "target": 58
+            },
+            {
+                "source": 58,
+                "target": 59
+            },
+            {
+                "source": 1,
+                "target": 60
+            },
+            {
+                "source": 60,
+                "target": 61
+            },
+            {
+                "source": 1,
+                "target": 62
+            },
+            {
+                "source": 62,
+                "target": 63
+            },
+            {
+                "source": 1,
+                "target": 64
+            },
+            {
+                "source": 64,
+                "target": 65
+            },
+            {
+                "source": 2,
+                "target": 66
+            },
+            {
+                "source": 66,
+                "target": 67
+            },
+            {
+                "source": 1,
+                "target": 68
+            },
+            {
+                "source": 68,
+                "target": 69
+            },
+            {
+                "source": 1,
+                "target": 70
+            },
+            {
+                "source": 70,
+                "target": 71
+            },
+            {
+                "source": 2,
+                "target": 72
+            },
+            {
+                "source": 72,
+                "target": 73
+            },
+            {
+                "source": 1,
+                "target": 74
+            },
+            {
+                "source": 74,
+                "target": 75
+            },
+            {
+                "source": 0,
+                "target": 76
+            },
+            {
+                "source": 76,
+                "target": 77
+            },
+            {
+                "source": 0,
+                "target": 78
+            },
+            {
+                "source": 78,
+                "target": 79
+            }
+        ]
+        }   
